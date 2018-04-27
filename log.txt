@@ -1,0 +1,11 @@
+commit 25dc03ad563d9721f868f38007eae6284786dbe1
+Author: natasha.ilievska@students.finki.ukim.mk <natasha.ilievska@students.finki.ukim.mk>
+Date:   Fri Apr 27 12:43:28 2018 +0200
+
+    modify l1.txt
+
+commit 91d51155f10535dfc35b898f5bce105bdcd030e2
+Author: natasha.ilievska@students.finki.ukim.mk <natasha.ilievska@students.finki.ukim.mk>
+Date:   Fri Apr 27 12:40:25 2018 +0200
+
+    Initial commit
